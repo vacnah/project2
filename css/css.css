@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+
+}
+.navbar.navbar-default.navbar-inverse{
+    margin-bottom: 0;
+}
+a[data-toggle="modal"]{
+    outline: none;
+}
+.container-fluid.main{
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.main2{
+    border: 1px solid #80808057;
+
+}
+.main2 > img{
+    width: 100%;
+}
+.main1{
+    margin-bottom: 25px;
+}
+footer{
+    height: 50px;
+    color: white;
+
+}
+footer span{
+    line-height: 50px;
+}
+
+footer a{
+    line-height: 50px;
+    margin-right: 5px;
+}
+
+footer a:last-child{
+    color: red;
+}
+.right{
+    float: right;
+
+}
